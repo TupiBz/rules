@@ -792,6 +792,66 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 </div>
 
 
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_2026.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Ronaldo.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Messi.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Mbappe.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Harry_Kane.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Neymar.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Bellingham.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Dembele.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Haaland.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Kvaratskhelia.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Olise.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Lamine_Yamal.png" width="65" style="margin-right: 15px;">
+<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+</div>
+
 
 ### Badge-uri la Comanda
 

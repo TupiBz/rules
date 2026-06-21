@@ -26,7 +26,7 @@ Wars are confrontations between gangs, as a result of which respect and supremac
 * To win a round, the gang must obtain a higher score than the other in the current round.
 * If both gangs manage to obtain an equal score, the gang defending the territory will win the round.
 * At the end of each war, the score of the best gangster on the winning team and the weakest player on the losing team is calculated.
-* Wars take place on B-Zone RPG servers every Monday, Tuesday, Wednesday, Thursday and Friday between 20:00-22:00. 
+* Wars take place on B-Zone RPG servers every Monday, Tuesday and Wednesday between 20:00-22:00. 
     * During summer, wars are held in an interval established following a poll on the website.
 * When a gang has a war, members of the respective gangs will see on the game map the territory for which the war is held, oscillating between the color of the offensive gang and the color of the defensive gang (to view territories use the /turfs command).
 * During the war, only personal vehicles or vehicles owned by the mafia can be used.

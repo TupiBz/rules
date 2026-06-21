@@ -1235,9 +1235,9 @@ Membrii vor fi sanctionati in urmatorul fel:
 
 <span style="color:var(--pink);">8.4.2</span> Liderii care accepta in mod constient persoane care folosesc coduri o sa fie sanctionati cu <span style="color:red;">Leader Warn sau Demitere</span>, in functie de caz.
 
-<span style="color:var(--pink);">8.4.3</span> Liderii si subliderii au obligatia de a fi prezenti la minim 3 zile de waruri pe saptamana, indiferent ca atacati sau aparati. Puteti sa va invoiti atat voi cat si subliderii la cel mult 2 zile de waruri, dar tot aveti obligatia de a fi prezenti la minimul de 3 zile cerut.<br/>
+<span style="color:var(--pink);">8.4.3</span> Liderii si subliderii au obligatia de a fi prezenti la minim 2 zile de waruri pe saptamana, indiferent ca atacati sau aparati. Puteti sa va invoiti atat voi cat si subliderii la cel mult 1 zi de waruri, dar tot aveti obligatia de a fi prezenti la minimul de 2 zile cerut.<br/>
 
-Subliderii pot folosi cele <span style="color:var(--pink);">2 invoiri saptamanale</span> pentru a se invoi iar Liderii trebuie sa posteze in canalul specific de pe discordul Staffului (sanctiune: <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere si <span style="color:red;">Demitere</span> daca continua).
+Subliderii pot folosi <span style="color:var(--pink);">invoirea saptamanala</span> pentru a se invoi iar Liderii trebuie sa posteze in canalul specific de pe discordul Staffului (sanctiune: <span style="color:red;">Avertisment Verbal</span> prima abatere, <span style="color:red;">Leader Warn</span> a doua abatere si <span style="color:red;">Demitere</span> daca continua).
 
 <span style="color:var(--pink);">8.4.4</span> Membrii care fac parte dintr-un gang si intre timp primesc <span style="color:var(--pink);">interdictie</span>, vor fi demisi intotdeauna cu <span style="color:red;">FP 60/60</span>. Jucatorii care au primit interdictie vor putea fi acceptati in alt gang dupa minim o luna de la primirea interdictiei. Liderii care vor accepta jucatori cu interdictie vor fi sanctionati cu <span style="color:red;">Leader Warn</span>, chiar si de la prima abatere.
 
@@ -1262,21 +1262,3 @@ Subliderii pot folosi cele <span style="color:var(--pink);">2 invoiri saptamanal
 
 !!! example "Nota informativa"
 	Un membru este considerat prezent la war daca are un minim de 30 de secunde pe turf sau minim 3 omoruri/decese in total.
-
-#### <span style="color:#3baad5;">Secundele la Waruri</span>
-
-<span style="color:var(--pink);">8.6.1</span> Liderii de gang pot stabili limita de secunde pentru prezenta in cadrul warurilor dupa urmatoarea formula:
-
-- pentru warurile din orasul gangului limita poate fi impusa intre <span style="color:var(--green);">500 - 800 secunde.</span>
-- pentru warurile din celelalte orase limita poate fi impusa intre <span style="color:var(--green);">300 - 600 secunde.</span>
-
-<span style="color:var(--pink);">8.6.2</span> Liderul poate decide sa nu tina cont de secunde pentru o anumita zi de war, fiind necesare <span style="color:var(--pink);">30 de secunde pe turf pentru prezenta.</span>
-
-!!! danger "Important"
-	In cazul in care exista abuzuri ce tin de aceasta regula se va acorda direct <span style="color:red;">Leader Warn.</span> Managerii de factiuni (adminii 4+) pot solicita dovezi Liderului prin care sa demonstreaza ca a anuntat numarul de secunde.
-
-!!! example "Nota informativa"
-	- regula doreste sa impuna un interval de secunde decent, astfel un Lider nu poate impune un numar exagerat de secunde.
-	- partea cea mai importanta a acestei reguli este faptul ca in cazul in care Liderul doreste sa NU adauge secunde pentru o zi de war sunt necesare DOAR 30 de secunde pe turf pentru a putea fi considerat prezent.
-	- regula permite o modificare flexibila a secundelor in functie de war/zi de war.
-	- regula va obliga sa faceti dovezi atunci cand anuntati numarul de secunde pentru un war sau pentru o zi de war (de preferat sa se faca pe /fmotd).

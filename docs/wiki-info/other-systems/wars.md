@@ -26,7 +26,7 @@ Warurile sunt confruntarile dintre ganguri, in urma carora se poate castiga resp
 * Pentru a castiga o runda, gangul trebuie sa obtina un punctaj mai mare decat al celuilalt, in runda curenta.
 * In cazul in care ambele ganguri reusesc sa obtina un punctaj egal, gangul care apara teritoriul va castiga runda.
 * La sfarsitul fiecarui razboi se calculeaza scorul celui mai bun gangster din echipa castigatorilor si celui mai slab jucator din echipa invinsilor.
-* Warurile au loc pe serverele B-Zone RPG in fiecare luni, marti, miercuri, joi si vineri intre orele 20:00-22:00.
+* Warurile au loc pe serverele B-Zone RPG in fiecare luni, marti si miercuri 20:00-22:00.
     * In timpul verii, warurile se poarta intr-un interval stabilit in urma unui sondaj pe website.
 * Atunci cand un gang are un razboi, membrii respectivelor ganguri vor vedea pe harta jocului teritoriul pentru care se tine razboiu, osciland intre culoarea gangului ofensiv si culoarea gangului defensiv (pentru vizualizarea teritoriilor se foloseste comanda /turfs).
 * In timpul razboiului pot fi folosite numai vehicule personale sau detinute de mafie.

@@ -696,6 +696,8 @@ After you have made the desired modifications you need to use the **Save** butto
 
 #### Special Badges
 
+#### Badges awarded at Quests
+
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Merger_Quest.png" width="65" style="margin-right: 15px;">
 <div><b>2023 Merger Quest</b> - awarded to players who completed the quest on the occasion of the merger between RPG1 & RPG2 in 2023.</div>
@@ -707,16 +709,6 @@ After you have made the desired modifications you need to use the **Save** butto
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2023 Christmas B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
-</div>
-
-<div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2024 Spring B-Pass</b> - awarded to players who have completed the Battlepass on the discord server.</div>
-</div>
-
-<div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/16_Years_Together.png" width="65" style="margin-right: 15px;">
 <div><b>16 Years Together</b> - awarded to players who completed the quest on the occasion of community days in 2024.</div>
 </div>
@@ -724,11 +716,6 @@ After you have made the desired modifications you need to use the **Save** butto
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Christmas_Quest.png" width="65" style="margin-right: 15px;">
 <div><b>2024 Christmas Quest</b> - awarded to players who have completed until the end of the quest on the occasion of Christmas in 2024.</div>
-</div>
-
-<div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2024 Christmas B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
@@ -752,11 +739,6 @@ After you have made the desired modifications you need to use the **Save** butto
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2025 Spring B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
-</div>
-
-<div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Childrens_Day.png" width="65" style="margin-right: 15px;">
 <div><b>2025 Childrens Quest</b> - awarded to players who have completed the quest on the occasion of Children's Day in 2025.</div>
 </div>
@@ -777,13 +759,37 @@ After you have made the desired modifications you need to use the **Save** butto
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2025 Christmas B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Valentines_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2026 Valentine's Quest</b> - awarded to players who have completed the quest on Valentine's Day in 2026.</div>
+</div>
+
+
+
+#### Badges awarded at Battlepass on Discord
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2023 Christmas B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Valentines_Quest.png" width="65" style="margin-right: 15px;">
-<div><b>2026 Valentine's Quest</b> - awarded to players who have completed the quest on Valentine's Day in 2026.</div>
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Spring B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Christmas B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Spring B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Christmas B-Pass</b> - awarded to players who have completed the Battlepass on Discord.B-Zone.Ro.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
@@ -792,6 +798,8 @@ After you have made the desired modifications you need to use the **Save** butto
 </div>
 
 
+#### Badges awarded at World Cup 2026
+
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_2026.png" width="65" style="margin-right: 15px;">
 <div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
@@ -799,57 +807,57 @@ After you have made the desired modifications you need to use the **Save** butto
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Ronaldo.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
+<div><b>WC Ronaldo</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Messi.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
+<div><b>WC Messi</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Mbappe.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
+<div><b>WC MBappe</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Harry_Kane.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
+<div><b>EC Harry Kane</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Neymar.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
+<div><b>WC Neymar</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Bellingham.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
+<div><b>WC Bellingham</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Dembele.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
+<div><b>WC Dembele</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Haaland.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
+<div><b>WC Haaland</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Kvaratskhelia.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
+<div><b>WC Kvaratskhelia</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Olise.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
+<div><b>WC Olise</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Lamine_Yamal.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
+<div><b>WC Lamine Yamal</b> - purchased from the game by players on the occasion of the World Cup in 2026.</div>
 </div>
 
 

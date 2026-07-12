@@ -696,6 +696,8 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 
 ### Badge-uri Speciale
 
+#### Badge-uri acordate la Quest-uri
+
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Merger_Quest.png" width="65" style="margin-right: 15px;">
 <div><b>2023 Merger Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia fuziunii dintre RPG1 & RPG2 in 2023.</div>
@@ -707,16 +709,6 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2023 Christmas B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe serverul de discord.</div>
-</div>
-
-<div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2024 Spring B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe serverul de discord.</div>
-</div>
-
-<div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/16_Years_Together.png" width="65" style="margin-right: 15px;">
 <div><b>16 Years Together</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilelor comunitatii in 2024.</div>
 </div>
@@ -724,11 +716,6 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Christmas_Quest.png" width="65" style="margin-right: 15px;">
 <div><b>2024 Christmas Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia Craciunului in 2024.</div>
-</div>
-
-<div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2024 Christmas B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe Discord.B-Zone.Ro.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
@@ -752,11 +739,6 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2025 Spring B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe Discord.B-Zone.Ro.</div>
-</div>
-
-<div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Childrens_Day.png" width="65" style="margin-right: 15px;">
 <div><b>2025 Childrens Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilei copilului in 2025.</div>
 </div>
@@ -777,13 +759,37 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
-<div><b>2025 Christmas B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe Discord.B-Zone.Ro.</div>
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Valentines_Quest.png" width="65" style="margin-right: 15px;">
+<div><b>2026 Valentine's Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilei indragostitilor in 2026.</div>
+</div>
+
+
+
+#### Badge-uri acordate la Battlepass-uri pe Discord
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2023_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2023 Christmas B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe serverul de discord.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
-<img src="https://www.rpg.b-zone.ro/public/img/Badges/2026_Valentines_Quest.png" width="65" style="margin-right: 15px;">
-<div><b>2026 Valentine's Quest</b> - acordat jucatorilor care au finalizat pana la final quest-ul cu ocazia zilei indragostitilor in 2026.</div>
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Spring B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe serverul de discord.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2024_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2024 Christmas B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe Discord.B-Zone.Ro.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Spring_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Spring B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe Discord.B-Zone.Ro.</div>
+</div>
+
+<div style="display: flex; align-items: center; padding-bottom: 30px;">
+<img src="https://www.rpg.b-zone.ro/public/img/Badges/2025_Christmas_B-Pass.png" width="65" style="margin-right: 15px;">
+<div><b>2025 Christmas B-Pass</b> - acordat jucatorilor care au finalizat pana la final Battlepass-ul pe Discord.B-Zone.Ro.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
@@ -792,6 +798,9 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 </div>
 
 
+
+#### Badge-uri la Cupa Mondiala 2026
+
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_2026.png" width="65" style="margin-right: 15px;">
 <div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
@@ -799,57 +808,57 @@ Dupa ce ati efectuat modificarile dorite trebuie sa folositi butonul **Save** pe
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Ronaldo.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+<div><b>WC Ronaldo</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Messi.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+<div><b>WC Messi</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Mbappe.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+<div><b>WC MBappe</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Harry_Kane.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+<div><b>WC Harry Kane</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Neymar.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+<div><b>WC Neymar</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Bellingham.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+<div><b>WC Bellingham</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Dembele.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+<div><b>WC Dembele</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Haaland.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+<div><b>WC Haaland</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Kvaratskhelia.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+<div><b>WC Kvaratskhelia</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Olise.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+<div><b>WC Olise</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
 </div>
 
 <div style="display: flex; align-items: center; padding-bottom: 30px;">
 <img src="https://www.rpg.b-zone.ro/public/img/Badges/WC_Lamine_Yamal.png" width="65" style="margin-right: 15px;">
-<div><b>World Cup 2026</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
+<div><b>WC Lamine Yamal</b> - achizitionat din joc de catre jucatori cu ocazia Cupei Mondiale in 2026.</div>
 </div>
 
 

@@ -702,6 +702,9 @@ More serious matters: mockery, insults, links to insulting/vulgar songs, etc.
 
 <span style="color:var(--pink);">21.10.1</span> Members who carry out their activity inside the Jail are required to know and follow the [General Jail Rules](../departments/ng/#general-jail-rules).
 
+### Garbage Rummaging
+
+<span style="color:var(--pink);">21.11.1</span> Players caught rummaging through garbage bins will be sanctioned by police with Wanted 1 for "Illegal Dumpster Diving" if the action takes place near cops.
 
 ## 22. Fines
 

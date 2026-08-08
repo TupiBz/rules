@@ -15,7 +15,16 @@
 
 <span style="color:var(--pink);">1.2.1</span> We do not allow businesses or attempts of businesses with real goods for game goods (<span style="color:red;">punishment: permanent ban</span>).
 
-<span style="color:var(--pink);">1.2.2</span> We do not allow businesses or attempts of businesses with gold for game goods (<span style="color:red;">punishment: ban 30 days</span>).
+<span style="color:var(--pink);">1.2.2</span> Businesses with in-game goods in exchange for topping up an amount of Gold from our shop onto the other player's account are allowed only after obtaining explicit approval from a level 6 admin by opening a [ticket on the website](https://www.rpg.b-zone.ro/ticket) at the Shop department.
+
+<span style="color:var(--pink);">1.2.2.1</span> Businesses with Gold for in-game goods made without explicit approval are not allowed and will be punished as illegal businesses (<span style="color:red;">punishment: ban 30 days</span>).
+
+!!! danger "Important"
+    Topping up Gold on another player's account is done by clicking on the shopping cart in the upper right corner of the website, then Buy Gold, then adding the desired Gold packages to the cart, and then at the bottom of the page where you have the cart details, in the Receiver column you can edit the account that will receive the Gold and add the recipient's account.
+
+    For the safety of both parties, opening a ticket is mandatory. The ticket will be opened by one of the participants, mentioning the name of the other participant and the deal they wish to make. Staff will add the other participant to the ticket if the proposed deal is reasonable (we will not accept deals such as 200 Gold for huge sums of money, for example) in order to confirm and provide the necessary instructions before approving the deal.
+
+    Important: Failure to comply with staff rules or instructions will result in punishment. Scamming by one of the participants after the transaction has been approved will result in (<span style="color:red;">punishment: permanent ban without the right to unban</span>).
 
 <span style="color:var(--pink);">1.2.3</span> We do not allow businesses or attempts of businesses that involve creating multiple clans and selling them overpriced after they get older than a month (<span style="color:red;">punishment: ban 30 days</span>).
 

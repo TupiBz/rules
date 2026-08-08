@@ -702,6 +702,10 @@ Lucruri mai serioase: bataie de joc, jigniri, linkuri cu melodii jignitoare/vulg
 
 <span style="color:var(--pink);">21.10.1</span> Membrii care isi desfasoara activitatea in interiorul Jailului au obligatia de a cunoaste si de a respecta [Regulile Generale ale Jailului](../departments/ng/#reguli-generale-jail).
 
+### Scotocitul Gunoaielor
+
+<span style="color:var(--pink);">21.11.1</span> Jucatorii surprinsi scotocind prin tomberoane vor fi sanctionati cu Wanted 1 pentru "Scotocire ilegala in gunoi" daca actiunea are loc in preajma politistului.
+
 ## 22. Amenzi
 
 <span style="color:var(--pink);">22.1</span> Aceste amenzi o sa fie acordate in joc folosind sistemul de [<span style="color:var(--pink);">/fines</span>] doar de catre lider sau sublideri atunci cand este necesar in baza unor dovezi clare. Aceste amenzi pot sa fie achitate in maximum 48 de ore de cand au fost primite. Membrii care nu platesc amenzile active prin comanda [<span style="color:var(--pink);">/fines</span>] in maximum 48 de ore de cand le-au primit o sa fie sanctionati automat de catre server cu <span style="color:red;">Faction Warn.</span>

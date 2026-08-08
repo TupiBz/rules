@@ -107,6 +107,8 @@ It is recommended to have as many screenshots as possible to demonstrate that yo
 
 <span style="color:var(--pink);">4.14</span> It is strictly forbidden to offer licenses to your secondary accounts. If you need licenses on these accounts, contact a colleague (<span style="color:red;">sanction: dismissal</span>).
 
+<span style="color:var(--pink);">4.15</span> Rank 1 members are not allowed to accept commands [<span style="color:var(--pink);">/servicecalls</span>] or [<span style="color:var(--pink);">/needlicenses</span>] from players with level 50+ (<span style="color:red;">sanction: fine $50,000</span> on first offense, <span style="color:red;">Verbal Warning</span> on next).
+
 ## 5. Clients
 
 <span style="color:var(--pink);">5.1</span> Rank 1-4 members when taking a client for licenses are obligated to announce on the faction chat in the following manner:

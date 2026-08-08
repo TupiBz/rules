@@ -107,6 +107,8 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
 
 <span style="color:var(--pink);">4.14</span> Este strict interzis sa oferiti licente conturilor voastre secundare. Daca aveti nevoie de licente pe acestea, luati legatura cu un coleg (<span style="color:red;">sanctiune: demitere</span>).
 
+<span style="color:var(--pink);">4.15</span> Membrii de rank 1 nu au voie sa accepte comenzile [<span style="color:var(--pink);">/servicecalls</span>] sau [<span style="color:var(--pink);">/needlicenses</span>] ale jucatorilor cu nivel 50+ (<span style="color:red;">sanctiune: amenda $50,000</span> la prima abatere, <span style="color:red;">Avertisment Verbal</span> la urmatoarea).
+
 ## 5. Clientii
 
 <span style="color:var(--pink);">5.1</span> Membrii de rank 1-4 atunci cand iau un client pentru licente sunt obligati sa anunte pe chatul factiunii in felul urmator:

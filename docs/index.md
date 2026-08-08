@@ -15,7 +15,16 @@
 
 <span style="color:var(--pink);">1.2.1</span> Nu sunt permise afacerile sau tentativele de afaceri cu bunuri reale pe bunuri in joc (<span style="color:red;">sanctiune: ban permanent</span>).
 
-<span style="color:var(--pink);">1.2.2</span> Nu sunt permise afacerile sau tentativele de afaceri cu gold pe bunuri in joc (<span style="color:red;">sanctiune: ban 30 de zile</span>).
+<span style="color:var(--pink);">1.2.2</span> Sunt permise afacerile cu bunuri in joc in schimbul incarcarii unei sume de Gold din shopul nostru pe contul celuilalt jucator doar dupa obtinerea unei aprobari explicite din partea unui admin 6 deschizand un [ticket pe website](https://www.rpg.b-zone.ro/ticket) la departamentul Shop.
+
+<span style="color:var(--pink);">1.2.2.1</span> Afacerile cu Gold pe bunuri in joc facute fara aprobarea explicita nu sunt permise si vor fi sanctionate ca afaceri ilegale (<span style="color:red;">sanctiune: ban 30 de zile</span>).
+
+!!! danger "Important"
+    Incarcarea cu Gold pe contul unui alt jucator se realizeaza facand click pe cosul de cumparaturi din partea dreapta sus a site-ului, apoi pe Buy Gold, apoi adaugand pachetele de Gold dorite in cosul de cumparaturi iar apoi din partea de jos a paginii unde aveti detaliile cosului de cumparaturi, la coloana de Receiver puteti edita contul care va primi Goldul si sa adaugati contul destinatarului.
+
+    Pentru siguranta ambelor parti, deschiderea unui ticket este obligatorie. Ticketul va fi deschis de catre unul dintre participanti, mentionand numele celuilalt participant si afacerea pe care doresc sa o faca. Staff-ul va adauga si celalalt participant in ticket daca afacerea propusa este rezonabila (nu vom accepta afaceri de tipul 200 Gold pe sume imense de bani de exemplu) pentru a confirma si a oferi instructiunile necesare inainte de a aproba afacerea.
+
+    Important: Nerespectarea regulilor sau instructiunilor staff-ului va duce la sanctionare. Inselatoria din partea unuia dintre participanti dupa aprobarea tranzactiei va duce la (<span style="color:red;">sanctiune: ban permanent fara drept de unban</span>).
 
 <span style="color:var(--pink);">1.2.3</span> Nu sunt permise afacerile sau tentativele de afaceri care implica crearea mai multor clanuri și vânzarea lor la suprapreț după ce fac minim o lună de zile vechime (<span style="color:red;">sanctiune: ban 30 de zile</span>).
 
@@ -43,8 +52,8 @@
 
 !!! example "Nota informativa"
 
-    Adminii de level 4+ isi rezerva dreptul de a sanctiona o persoana care se ocupa cu spargeri de conturi sau de a ajuta o persoana a carui cont a fost spart daca considera necesar. 
-    
+    Adminii de level 4+ isi rezerva dreptul de a sanctiona o persoana care se ocupa cu spargeri de conturi sau de a ajuta o persoana a carui cont a fost spart daca considera necesar.
+
     Atentie, adminii nu au absolut nicio obligatie sa sanctioneze pe cineva sau sa va ajute in cazul in care v-a fost spart contul.
 
 ??? warning "Exemple cum poate sa-ti fie spart contul"
@@ -177,7 +186,7 @@
 
 !!! example "Nota informativa"
     Ultimele 2 luni de joc sunt considerate intotdeauna ultimele 2 luni de dinaintea lunii in care ne aflam.
-    
+
     Asadar daca acum este luna Aprilie, noi vom considera ultimele 2 luni de joc: Martie + Februarie.
 
     Daca trecem in luna Mai, ultimele 2 luni de joc vor fi: Aprilie + Martie. Daca trecem in luna Iunie, ultimele 2 luni de joc vor fi: Mai + Aprilie si asa mai departe.
@@ -231,7 +240,7 @@ Exemple de moduri permise:
 - fake escape.
 - infinite run/stamina.
 - alte moduri care aduc modificari doar ca aspect vizual pentru tine si nu pot fi folosite in mod abuziv fata de script.
- 
+
 Exemple de moduri nepermise:
 
 - moduri care modifica sensitivitatea in asa fel incat jucatorul sa traga precum ar avea coduri.
@@ -268,7 +277,7 @@ Exemple de abuzuri <span style="color:red;">sanctionabile cu warn din prima:</sp
 <span style="color:var(--pink);">3.1</span> Toate afacerile de pe server se vor face prin intermediul comenzii [<span style="color:var(--pink);">/trade</span>]. Afacerile facute fara aceasta comanda pot duce la inselatorii si la pierderea bunurilor.
 
 !!! example "Nota informativa"
-    Adminii nu vor interveni in inselatoriile pe care le fac jucatorii decat in anumite circumstante stabilite doar de acestia. Asadar adminii de level 4+ isi rezerva dreptul de a interveni in anumite inselatorii si chiar si a sanctiona jucatorul care a facut inselatoria daca este cazul. 
+    Adminii nu vor interveni in inselatoriile pe care le fac jucatorii decat in anumite circumstante stabilite doar de acestia. Asadar adminii de level 4+ isi rezerva dreptul de a interveni in anumite inselatorii si chiar si a sanctiona jucatorul care a facut inselatoria daca este cazul.
 
     Atentie, adminii nu au absolut nicio obligatie sa sanctioneze pe cineva sau sa va ajute in cazul in care ati fost inselat.
 
@@ -312,7 +321,7 @@ Exemple de limbaj nesanctionabil (<span style="color:red;">exceptie fata de admi
 <span style="color:var(--pink);">4.4.3</span> Adminii pot solicita unui Admin 6 permisiune pentru a oferi sanctiuni mai mari ca acestea daca sunt necesare.
 
 ### Nume Proprietati
-<span style="color:var(--pink);">4.5.1</span> Jucatorii care folosesc texte jignitoare, vulgare sau inselatoare pe proprietatile detinute (masini, bizuri, case) vor fi sanctionati cu <span style="color:red;">warn.</span> 
+<span style="color:var(--pink);">4.5.1</span> Jucatorii care folosesc texte jignitoare, vulgare sau inselatoare pe proprietatile detinute (masini, bizuri, case) vor fi sanctionati cu <span style="color:red;">warn.</span>
 
 <span style="color:var(--pink);">4.5.2</span> In cazul vehiculelor, risca sa fie sanctionati inclusiv jucatorii de la bord care nu le detin, in functie de situatie.
 
@@ -406,9 +415,9 @@ Exemple de comportament non-rp:
     In cazul membrilor din departamente, acestia pot folosi somatiile si sanctiona jucatorul direct cu wanted in functie de caz (neconformare, DB, DM, etc.).
 
 ### Folosirea codatilor pentru zonele de clan
-<span style="color:var(--pink);">7.6.1</span> Ne rezervam dreptul de a sterge un clan in care unul sau mai multi jucatori au fost prinsi folosind coduri pentru a ajuta la cucerirea zonelor de clan. 
+<span style="color:var(--pink);">7.6.1</span> Ne rezervam dreptul de a sterge un clan in care unul sau mai multi jucatori au fost prinsi folosind coduri pentru a ajuta la cucerirea zonelor de clan.
 
-<span style="color:var(--pink);">7.6.2</span> Clan ownerul este in mod direct raspunzator de persoanele pe care le invita in clan, in special de conturile de level mic invitate de pe care se folosesc coduri pentru a ajuta la cucerirea zonelor. 
+<span style="color:var(--pink);">7.6.2</span> Clan ownerul este in mod direct raspunzator de persoanele pe care le invita in clan, in special de conturile de level mic invitate de pe care se folosesc coduri pentru a ajuta la cucerirea zonelor.
 
 <span style="color:var(--pink);">7.6.3</span> Clanul poate fi sters definitiv fara a returna Goldul cheltuit pentru crearea clanului.
 
@@ -486,7 +495,7 @@ Exemple de comportament non-rp:
     <span style="color:var(--pink);">8.2.8</span> Avand in vedere diversele situatii care pot aparea prin reclamatii, stafful serverului este singurul in masura sa decida atunci cand un jucator incearca sa faca posthunting.
 
     <span style="color:var(--pink);">Consecinte posthunting:</span>
-    
+
     - se ignora reclamatia/reclamatiile si se ofera un avertisment daca este vorba de un numar redus de reclamatii.
     - daca jucatorul exagereaza sau a fost deja avertizat, vor fi ignorate reclamatiile si se va oferi <span style="color:red;">web suspend minim 3 zile</span>, sanctiunea crescand in functie de numarul de abateri.
     - vor fi ignorate inclusiv reclamatiile de pe conturile secundare.
@@ -506,7 +515,7 @@ Exemple de comportament non-rp:
     - raportarea unui admin/lider care te-a sanctionat/demis aiurea.
     - raportarea unui lider care te-a respins fara motiv intemeiat in factiune.
     - raportarea unui admin/lider care a raspuns gresit la o reclamatie facuta de tine.
-    - alte situatii similare. 
+    - alte situatii similare.
 
     <span style="color:red;">Ce se considera posthunting:</span>
 
@@ -525,7 +534,7 @@ Exemple de comportament non-rp:
 <span style="color:var(--pink);">8.3.1</span> Reclamatiile la adresa staffului (lideri, helperi, admini) pot fi facute doar de persoanele implicate in mod direct (<span style="color:red;">reclamatie respinsa automat</span>).
 
 ## 9. Exceptii
-<span style="color:var(--pink);">9.1</span> Ne rezervam dreptul de a avea exceptii de la regulile mentionate mai sus, cat si de la celelalte reguli pe care un jucator are obligatia de a le respecta (reguli factiuni, reguli staff, etc.), in cazurile in care situatia o cere fara a fi nevoiti sa oferim explicatii, incercand sa actualizam regulamentul si cu respectivele cazuri noi. 
+<span style="color:var(--pink);">9.1</span> Ne rezervam dreptul de a avea exceptii de la regulile mentionate mai sus, cat si de la celelalte reguli pe care un jucator are obligatia de a le respecta (reguli factiuni, reguli staff, etc.), in cazurile in care situatia o cere fara a fi nevoiti sa oferim explicatii, incercand sa actualizam regulamentul si cu respectivele cazuri noi.
 
 <span style="color:var(--pink);">9.2</span> Jucatorii care: au prea multe sanctiuni, prea multe conturi creatoare de probleme, creaza conturi doar pentru a strica bunastarea serverului, sunt considerati ca incurca jocul prea mult vor fi <span style="color:red;">banati permanent.</span>
 

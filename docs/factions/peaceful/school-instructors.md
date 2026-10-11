@@ -129,7 +129,7 @@ Este recomandat sa aveti cat mai multe poze pentru a putea demonstra ca ati sust
     Xulescu (257) la mine pentru toate licentele, Nivel 50+.<br/>
     Yulescu (341) la mine pentru licentele de Flying, Sailing, Weapon, Nivel 50+.
 
-<span style="color:var(--pink);">5.3</span> Anuntati licentele cu numele lor complet si corect: Fishing, Sailing, Flying, Weapon, Materials Licenses. NU prescurtati, NU le anuntati in Romana (<span style="color:red;">sanctiune: Faction Warn</span>).
+<span style="color:var(--pink);">5.3</span> Anuntati licentele cu numele lor complet si corect: Fishing, Sailing, Flying, Weapon, Materials, Hunting Licenses. NU prescurtati, NU le anuntati in Romana (<span style="color:red;">sanctiune: Faction Warn</span>).
 
 <span style="color:var(--pink);">5.4</span> Nu stresati clientii. Daca gresesc, le explicati unde au gresit. Nu va enervati pe ei (<span style="color:red;">sanctiune: Faction Warn</span>).
 

@@ -297,7 +297,7 @@ Examples of unpunishable language (<span style="color:red;">exception towards ad
 
 <span style="color:var(--pink);">4.1.2</span> Language on clan chats will be punished by clan owners, except when the language is done by the owner himself, is addressed to admins or faction colleagues.
 
-<span style="color:var(--pink);">4.1.3</span> To ensure a pleasant and easy to administrate game, the only allowed languages on public chats are Romanian and English. Using any other language on public chats (/ad, /gov, /live, /news, /f, /r, /d, /sx, /tx) is forbidden (<span style="color:red;">punishment: warn</span>). On private chats (local, /sms, /call, /whisper, /carwhisper, /c, /ac) you are allowed to use other languages.
+<span style="color:var(--pink);">4.1.3</span> To ensure a pleasant and easy to administrate game, the only allowed languages on public chats are Romanian and English. Using any other language on public chats (/ad, /gov, /live, /news, /vip, /f, /r, /d, /sx, /tx) is forbidden (<span style="color:red;">punishment: warn</span>). On private chats (local, /sms, /call, /whisper, /carwhisper, /c, /ac) you are allowed to use other languages.
 
 ### Civilians
 - level 1-5: <span style="color:red;">kick at first, 30 Minutes Mute afterwards.</span>
@@ -307,7 +307,7 @@ Examples of unpunishable language (<span style="color:red;">exception towards ad
 <span style="color:var(--pink);">4.2.1</span> The punishment <span style="color:red;">will grow with 2 extra days</span> at each other offence.
 
 ### Faction members
-<span style="color:var(--pink);">4.3.1</span> Will get punished in accordance with the faction rules.
+<span style="color:var(--pink);">4.3.1</span> Will get punished in accordance with the faction rules, except for light and medium offenses on the VIP chat (rule 6.4.6).
 
 ### Offences, insults or vulgar language to admins or the server
 - offences: <span style="color:red;">120 Minutes Mute.</span>
@@ -380,6 +380,52 @@ Examples of non-rp behavior:
 - begging.
 
 <span style="color:var(--pink);">6.3.2</span> The second offence will be punished directly with <span style="color:red;">warn.</span>
+
+### VIP Chat
+<span style="color:var(--pink);">6.4.1</span> The VIP chat [<span style="color:var(--pink);">/vip</span>] can be seen by all VIP members on the server and is considered a global chat. In order to keep a pleasant atmosphere among VIP members, besides the general rules of global chats, the stricter rules below also apply.
+
+<span style="color:var(--pink);">6.4.2</span> Light offenses (<span style="color:red;">punishment: warn</span>):
+
+- light insults such as: loser, jackass, idiot, moron, fatso etc.
+- single censored words, even when the context is not very clear, such as: suck \*\*\*\*, eat \*\*\*\*, \*\*\* etc.
+- obscene signs (\_|\_, \_\(\)\_ etc.).
+- mocking, irony, ridicule and bad jokes aimed at other players.
+- provoking arguments or conflicts.
+- trolling (nonsense messages, false information or other messages sent intentionally to disturb others).
+- flooding and spamming (filling the chat with repeated or pointless messages, or with messages written in excessive caps lock).
+
+<span style="color:var(--pink);">6.4.3</span> Medium offenses (<span style="color:red;">punishment: mute 120 minutes</span>):
+
+- arguments and repeated exchanges of insulting or provoking replies (all players involved will be punished).
+- harassment, meaning repeatedly targeting the same player or group of players with insulting, ironic or provoking messages.
+- insulting or provoking references to other players' families, even without vulgar language (your mom, your dad, your sister etc.).
+- sexual innuendos and jokes.
+- racist or discriminatory insults and jokes (ethnicity, religion, sexual orientation etc.).
+- threats towards other players (hacking their account, leaking their personal data etc.).
+- instigating other players to insult, argue, spam or break the rules in any other way.
+
+<span style="color:var(--pink);">6.4.4</span> Severe offenses (<span style="color:red;">punishment: ban 3 days</span>):
+
+- heavy insults and vulgar language (the examples of punishable language from rule 4.1.1), even when they are not addressed to a specific player.
+- abbreviated, modified or censored curse words when the context can be understood (fmm, pl, pzd, ptm, di_ck, fuc y0u etc.).
+- wishing death or illness upon others (die, get cancer, kill yourself etc.).
+- links to vulgar, pornographic or shocking content.
+
+<span style="color:var(--pink);">6.4.5</span> The ban <span style="color:red;">will grow with 3 extra days</span> for each extra severe offense.
+
+<span style="color:var(--pink);">6.4.6</span> Faction members will be punished as follows:
+
+- light and medium offenses: by admins, according to the rules above (<span style="color:red;">warn / mute 120 minutes</span>).
+- severe offenses: by the leader, according to the faction rules (<span style="color:red;">punishment: dismissal</span>), the complaint being made to the faction the player is part of.
+
+<span style="color:var(--pink);">6.4.7</span> Players who are repeatedly punished on the VIP chat can be considered toxic and punished according to rule 7.11.1.
+
+<span style="color:var(--pink);">6.4.8</span> Admins can ask a Level 6 Admin permission to offer bigger punishments than these if necessary.
+
+!!! example "Info note"
+    Responding to provocations or insults is not an excuse. If you are provoked or insulted on the VIP chat do not respond, use [<span style="color:var(--pink);">/report</span>] or make a complaint on the website instead.
+
+    The rest of the server rules still apply on the VIP chat (allowed languages 4.1.3, insulting admins 4.4, advertising 2.5, distribution of personal data 7.9.1 etc.).
 
 ## 7. Extra Rules
 
@@ -510,7 +556,7 @@ Examples of non-rp behavior:
     - reporting a player intentionally advertising another server to lure players there.
     - reporting a player who has scammed you.
     - reporting a player engaging in non-roleplay behavior to gain an advantage and abuse you.
-    - reporting a player who insults/swears on global chats (live, news, event, gov, ad, etc.).
+    - reporting a player who insults/swears on global chats (live, news, event, gov, ad, vip, etc.).
     - reporting a player who blackmails you.
     - reporting a player who has falsified evidence against you.
     - reporting an admin/leader who has sanctioned/dismissed you wrongly.

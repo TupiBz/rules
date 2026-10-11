@@ -129,7 +129,7 @@ It is recommended to have as many screenshots as possible to demonstrate that yo
     Xulescu (257) with me for all licenses, Level 50+. <br/>
     Yulescu (341) with me for Flying, Sailing, Weapon Licenses, Level 50+.
 
-<span style="color:var(--pink);">5.3</span> Announce the licenses with their full and correct names: Fishing, Sailing, Flying, Weapon, Materials Licenses. DO NOT abbreviate, DO NOT announce them in Romanian (<span style="color:red;">sanction: Faction Warn</span>).
+<span style="color:var(--pink);">5.3</span> Announce the licenses with their full and correct names: Fishing, Sailing, Flying, Weapon, Materials, Hunting Licenses. DO NOT abbreviate, DO NOT announce them in Romanian (<span style="color:red;">sanction: Faction Warn</span>).
 
 <span style="color:var(--pink);">5.4</span> Do not stress the clients. If they make mistakes, explain where they went wrong. Do not get angry with them (<span style="color:red;">sanction: Faction Warn</span>).
 

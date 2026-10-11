@@ -298,7 +298,7 @@ Exemple de limbaj nesanctionabil (<span style="color:red;">exceptie fata de admi
 
 <span style="color:var(--pink);">4.1.2</span> Limbajul pe chaturile clanurilor va fi sanctionat de catre ownerii de clan, mai putin atunci cand acesta este adresat de insusi clan owner, este adresat adminilor sau colegilor de factiune.
 
-<span style="color:var(--pink);">4.1.3</span> Pentru a asigura un joc cat mai placut si usor de administrat, singurele limbi permise pe chaturile globale sunt Romana si Engleza. Folosirea oricarei alte limbi pe chaturile publice (/ad, /gov, /live, /news, /f, /r, /d, /sx, /tx) este interzisa (<span style="color:red;">sanctiune: warn</span>). Pe privat (local, /sms, /call, /whisper, /carwhisper, /c, /ac) este permisa folosirea altor limbi.
+<span style="color:var(--pink);">4.1.3</span> Pentru a asigura un joc cat mai placut si usor de administrat, singurele limbi permise pe chaturile globale sunt Romana si Engleza. Folosirea oricarei alte limbi pe chaturile publice (/ad, /gov, /live, /news, /vip, /f, /r, /d, /sx, /tx) este interzisa (<span style="color:red;">sanctiune: warn</span>). Pe privat (local, /sms, /call, /whisper, /carwhisper, /c, /ac) este permisa folosirea altor limbi.
 
 ### Civilii
 - level 1-5: <span style="color:red;">kick prima abatere, 30 Minute Mute de la a doua in sus.</span>
@@ -308,7 +308,7 @@ Exemple de limbaj nesanctionabil (<span style="color:red;">exceptie fata de admi
 <span style="color:var(--pink);">4.2.1</span> Sanctiunea va creste <span style="color:red;">cu 2 zile in plus</span> la fiecare abatere suplimentara.
 
 ### Membrii factiunilor
-<span style="color:var(--pink);">4.3.1</span> Vor fi sanctionati conform regulamentului factiunilor.
+<span style="color:var(--pink);">4.3.1</span> Vor fi sanctionati conform regulamentului factiunilor, cu exceptia abaterilor usoare si medii de pe chatul VIP (regula 6.4.6).
 
 ### Jignirile, insultele sau limbajul vulgar aduse oricarui admin sau serverului
 - jigniri: <span style="color:red;">120 Minute Mute.</span>
@@ -381,6 +381,52 @@ Exemple de comportament non-rp:
 - cersitul.
 
 <span style="color:var(--pink);">6.3.2</span> A doua abatere va fi sanctionata direct cu <span style="color:red;">warn.</span>
+
+### Chatul VIP
+<span style="color:var(--pink);">6.4.1</span> Chatul VIP [<span style="color:var(--pink);">/vip</span>] poate fi vazut de catre toti membrii VIP de pe server si este considerat chat global. Pentru a pastra o atmosfera placuta in randul membrilor VIP, pe langa regulile generale ale chaturilor globale se aplica si regulile mai stricte de mai jos.
+
+<span style="color:var(--pink);">6.4.2</span> Abateri usoare (<span style="color:red;">sanctiune: warn</span>):
+
+- jignirile usoare precum: ratat, sugaci, handicapat, tampit, gras, slaban, idiot, cretin etc.
+- cuvintele singulare cenzurate, chiar si atunci cand contextul nu e foarte clar, precum: sugi \*\*\*\*, ma \*\*\*\*, te \*\*\* etc.
+- semnele obscene (\_|\_, \_\(\)\_ etc.).
+- mistourile, ironiile, batjocura si glumele de prost gust la adresa altor jucatori.
+- provocarile la cearta sau la conflict.
+- trollingul (mesaje fara sens, informatii false sau alte mesaje trimise intentionat pentru a deranja).
+- floodul si spamul (umplerea chatului cu mesaje repetate, fara rost sau scrise excesiv cu majuscule).
+
+<span style="color:var(--pink);">6.4.3</span> Abateri medii (<span style="color:red;">sanctiune: mute 120 de minute</span>):
+
+- certurile si schimburile repetate de replici jignitoare sau provocatoare (vor fi sanctionati toti jucatorii implicati).
+- hartuirea, adica vizarea repetata a aceluiasi jucator sau grup de jucatori cu mesaje jignitoare, ironice sau provocatoare.
+- referirile jignitoare sau provocatoare la familia altor jucatori, chiar si fara limbaj vulgar (ma-ta, tac-tu, sora-ta etc.).
+- aluziile si glumele cu tenta sexuala.
+- jignirile si glumele rasiste sau discriminatorii (etnie, religie, orientare sexuala etc.).
+- amenintarile la adresa altor jucatori (cu spargerea contului, cu divulgarea datelor personale etc.).
+- instigarea altor jucatori la jigniri, certuri, spam sau alte incalcari ale regulamentului.
+
+<span style="color:var(--pink);">6.4.4</span> Abateri grave (<span style="color:red;">sanctiune: ban 3 zile</span>):
+
+- insultele grave si limbajul vulgar (exemplele de limbaj sanctionabil de la regula 4.1.1), chiar si atunci cand nu sunt adresate unui anumit jucator.
+- injuraturile prescurtate, modificate sau cenzurate atunci cand se intelege contextul (fmm, pl, pzd, ptm, pu_la, mu!e etc.).
+- urarile de moarte sau de boala (sa mori, sa faci cancer, sinucide-te etc.).
+- linkurile catre continut vulgar, pornografic sau socant.
+
+<span style="color:var(--pink);">6.4.5</span> Sanctiunea de ban <span style="color:red;">va creste cu 3 zile in plus</span> la fiecare abatere grava suplimentara.
+
+<span style="color:var(--pink);">6.4.6</span> Membrii factiunilor vor fi sanctionati astfel:
+
+- abaterile usoare si medii: de catre admini, conform regulilor de mai sus (<span style="color:red;">warn / mute 120 de minute</span>).
+- abaterile grave: de catre lider, conform regulamentului factiunilor (<span style="color:red;">sanctiune: demitere</span>), reclamatia facandu-se la factiunea din care face parte jucatorul.
+
+<span style="color:var(--pink);">6.4.7</span> Jucatorii sanctionati in mod repetat pe chatul VIP pot fi considerati toxici si sanctionati conform regulii 7.11.1.
+
+<span style="color:var(--pink);">6.4.8</span> Adminii pot solicita unui Admin 6 permisiune pentru a oferi sanctiuni mai mari ca acestea daca sunt necesare.
+
+!!! example "Nota informativa"
+    Raspunsul la provocari sau jigniri nu reprezinta o scuza. Daca sunteti provocati sau jigniti pe chatul VIP nu raspundeti, ci folositi [<span style="color:var(--pink);">/report</span>] sau faceti reclamatie pe website.
+
+    Restul regulilor serverului se aplica in continuare si pe chatul VIP (limbile permise 4.1.3, jignirile aduse adminilor 4.4, reclama 2.5, distribuirea datelor personale 7.9.1 etc.).
 
 ## 7. Reguli Suplimentare
 
@@ -511,7 +557,7 @@ Exemple de comportament non-rp:
     - raportarea unui jucator care face reclama intentionata unui alt server cu scopul de a duce alti jucatori acolo.
     - raportarea unui jucator care te-a inselat.
     - raportarea unui jucator care face comportament non-rp ca sa-si ofere un avantaj si sa abuzeze asupra ta.
-    - raportarea unui jucator care jigneste/injura pe chaturi globale (livve, news, event, gov, ad, etc.).
+    - raportarea unui jucator care jigneste/injura pe chaturi globale (live, news, event, gov, ad, vip, etc.).
     - raportarea unui jucator care te santajeaza.
     - raportarea unui jucator care a falsificat dovezi asupra ta.
     - raportarea unui admin/lider care te-a sanctionat/demis aiurea.

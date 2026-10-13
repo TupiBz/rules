@@ -345,6 +345,8 @@ Pe langa acest regulament, toti membrii au obligatia de a respecta inclusiv [Reg
 
 <span style="color:var(--pink);">10.5.6</span> Armele pot fi confiscate de membrii oricarui departament.
 
+<span style="color:var(--pink);">10.5.7</span> Este interzisa confiscarea armele specifice jobului de Hunter asupra jucatorilor care practica acest job (<span style="color:red;">sanctiune: Faction Warn</span>).
+
 ### Confiscarea <span style="color:orange;">Drogurilor/Bombelor</span>
 
 <span style="color:var(--pink);">10.6.1</span> Se confisca atunci cand se gaseste un jucator care sa le aiba in posesia sa, chiar daca jucatorul este AFK (cu sau fara clepsidra).

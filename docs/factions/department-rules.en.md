@@ -345,6 +345,8 @@ Besides these rules, all members are obligated to respect both the [Server Rules
 
 <span style="color:var(--pink);">10.5.6</span> Weapons can be confiscated by members of any department.
 
+<span style="color:var(--pink);">10.5.7</span> It is prohibited to confiscate the Hunter job-specific weapons from players who practice this job (<span style="color:red;">sanction: Faction Warn</span>).
+
 ### Confiscating <span style="color:orange;">Drugs/Bombs</span>
 
 <span style="color:var(--pink);">10.6.1</span> They are confiscated when a player is found to have them in their possession, even if the player is AFK (with or without a hourglass).

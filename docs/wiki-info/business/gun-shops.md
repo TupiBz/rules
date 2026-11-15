@@ -31,13 +31,13 @@ icon: material/ammunition
 
 ## Arme Disponibile
 
-- SDPistol - $1 glontul
-- Deagle - $2 glontul
-- Shotgun - $2 glontul
-- MP5 - $2 glontul
-- M4 - $3 glontul
-- AK47 - $3 glontul
-- Rifle - $3 glontul
+- SDPistol - $2 glontul
+- Deagle - $4 glontul
+- Shotgun - $4 glontul
+- MP5 - $4 glontul
+- M4 - $6 glontul
+- AK47 - $6 glontul
+- Rifle - $6 glontul
 
 ## Daunele cauzate de arme
 

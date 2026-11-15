@@ -31,13 +31,13 @@ icon: material/ammunition
 
 ## Available Weapons
 
-- SDPistol - $1 per bullet
-- Deagle - $2 per bullet
-- Shotgun - $2 per bullet
-- MP5 - $2 per bullet
-- M4 - $3 per bullet
-- AK47 - $3 per bullet
-- Rifle - $3 per bullet
+- SDPistol - $2 per bullet
+- Deagle - $4 per bullet
+- Shotgun - $4 per bullet
+- MP5 - $4 per bullet
+- M4 - $6 per bullet
+- AK47 - $6 per bullet
+- Rifle - $6 per bullet
 
 ## Weapon Damage
 
